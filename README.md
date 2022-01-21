@@ -1,3 +1,3 @@
 # args---OpenCV
  
-Using ARGS to input datas and coordinates from CMD
+Using ARGS and ARGC to input datas and coordinates from CMD
